@@ -96,6 +96,3 @@ However, I'm not solely focused on C#. I try my best to learn SQL, Python and Ja
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
