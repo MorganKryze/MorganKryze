@@ -36,7 +36,7 @@ However, I'm not solely focused on C#. I try my best to learn SQL, Python and Ja
 - 🌱 I’m currently learning C# and Python  
   
 
-- ⚡ Fun fact: I keep coding on a MacOS environment   
+- ⚡ Fun fact: I code exclusively on a MacOS environment   
 
 
 </td><td valign="top" width="50%">
