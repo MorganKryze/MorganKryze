@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-Currently at an engineering school, I get to code on VsCode. But what I like most currently is C# and its potential. 
+Currently at an engineering school, I get to use VsCode, Docker or Flutter. But what I like most currently is C# and its potential. 
 Through my different projects, I try to go further and further into the language and discover its specifics.
 
 However, I'm not solely focused on C#. I try my best to learn dart/Flutter and Python on the side to stay competitive!  
