@@ -26,7 +26,7 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 
 <br/>  
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e8b055b128dce3cb755b76?variant=light)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e8b055b128dce3cb755b76?variant=light&roadmaps=flutter%2Cpython%2Csql%2Cdocker)](https://roadmap.sh)
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
