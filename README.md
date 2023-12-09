@@ -24,10 +24,6 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e8b055b128dce3cb755b76?variant=light&roadmaps=flutter%2Cpython%2Csql%2Cdocker)](https://roadmap.sh)
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=MorganKryze&&style=flat-square" align="center" />
-</div>  
-
 ## 📬 Contact me
 
 <a href="mailto:morgan@kodelab.fr" target="_blank">
@@ -105,3 +101,7 @@ This was also a school project where we had to create a labyrinth game in a C# c
 This was a prototype of a Discord bot that I made with a friend to discover both python and Discord. It was supposed to be a bot that would allow you to play music in a voice channel using the youtube dl library.
 
 [![Discord bot](ressources/discord_logo.jpg)](https://github.com/MorganKryze/Bot_discord)
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=MorganKryze&&style=flat-square" align="center" />
+</div>  
