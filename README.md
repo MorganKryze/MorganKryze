@@ -54,6 +54,12 @@ This is my biggest project: a C# console app library that allows you to create a
 
 [![ConsoleAppVisuals](ressources/presentation.gif)](https://github.com/MorganKryze/ConsoleAppVisuals)
 
+### 🖥️ Mac_Setup
+
+A quick guide for lambda people to setup their Mac and for developers. It provides a list of useful apps and a few tips to make your Mac experience better.
+
+![Mac_Setup](ressources/setup.png)
+
 ### 📝 TicTacToe MiniMax
 
 This project is a fork of the [TicTacToe](https://github.com/Cledersonbc/tic-tac-toe-minimax) implementing the ability to play against a human.
