@@ -54,6 +54,12 @@ This is my biggest project: a C# console app library that allows you to create a
 
 [![ConsoleAppVisuals](ressources/presentation.gif)](https://github.com/MorganKryze/ConsoleAppVisuals)
 
+### 📃 Resume template
+
+This project is a fork of the [jakegut/resume](https://github.com/jakegut/resume) implementing a convert script and auto-publish to github-pages.
+
+[![Resume template](ressources/resume.jpg)](https://github.com/MorganKryze/Resume-LaTeX)
+
 ### 🖥️ Mac Setup
 
 A quick guide for lambda people to setup their Mac and for developers. It provides a list of useful apps and a few tips to make your Mac experience better.
