@@ -11,16 +11,7 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
   
 ## 📊 Github Stats
 
-<table>
-    <tr>
-        <td valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=MorganKryze&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-        </td>
-        <td valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorganKryze&hide_border=true&layout=compact" align="left" style="width: 100%" />
-        </td>
-    </tr>
-</table>  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MorganKryze\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage&hide_title=true)
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e8b055b128dce3cb755b76?variant=light&roadmaps=flutter%2Cpython%2Csql%2Cdocker)](https://roadmap.sh)
 
