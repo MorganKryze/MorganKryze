@@ -58,7 +58,7 @@ This is my biggest project: a C# console app library that allows you to create a
 
 This project is a fork of the [jakegut/resume](https://github.com/jakegut/resume) implementing a convert script and auto-publish to github-pages.
 
-[![Resume template](ressources/resume.jpg)](https://github.com/MorganKryze/Resume-LaTeX)
+[![Resume template](ressources/resume-en.jpg)](https://github.com/MorganKryze/Resume-LaTeX)
 
 ### 🖥️ Mac Setup
 
