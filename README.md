@@ -15,6 +15,10 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MorganKryze\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage&hide_title=true&card_width=500)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MorganKryze\&layout=compact&card_width=500)
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=MorganKryze&&style=flat-square" align="center" />
+</div> 
+
 ## 📬 Contact me
 
 <a href="mailto:morgan@kodelab.fr" target="_blank">
@@ -111,7 +115,3 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 > This was a prototype of a Discord bot that I made with a friend to discover both python and Discord. It was supposed to be a bot that would allow you to play music in a voice channel using the youtube dl library.
 
 [![Discord bot](ressources/discord_logo.jpg)](https://github.com/MorganKryze/Bot_discord)
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=MorganKryze&&style=flat-square" align="center" />
-</div>  
