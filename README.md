@@ -49,7 +49,7 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 
 > Both a python and html project to generate clean email signatures. The python script include the config info from a yaml file to a html template.
 
-| ![with logo](https://raw.githubusercontent.com/MorganKryze/Signature-Generator/main/src/resources/screenshot_logo.png) | ![with photo](https://raw.githubusercontent.com/MorganKryze/Signature-Generator/main/src/resources/screenshot_photo.png) |
+| [![with logo](https://raw.githubusercontent.com/MorganKryze/Signature-Generator/main/src/resources/screenshot_logo.png)](https://github.com/MorganKryze/Email-Signature-Generator) | [![with photo](https://raw.githubusercontent.com/MorganKryze/Signature-Generator/main/src/resources/screenshot_photo.png)](https://github.com/MorganKryze/Email-Signature-Generator) |
 |:---:|:---:|
 
 ### 📃 Resume template
