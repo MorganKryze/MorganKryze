@@ -66,7 +66,7 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 
 > A quick guide for lambda people to setup their Mac and for developers. It provides a list of useful apps and a few tips to make your Mac experience better.
 
-[![Mac_Setup](ressources/setup.png)](https://github.com/MorganKryze/Mac_Setup)
+[![Mac-Setup](ressources/setup.png)](https://github.com/MorganKryze/Mac-Setup)
 
 ### 📝 TicTacToe MiniMax
 
