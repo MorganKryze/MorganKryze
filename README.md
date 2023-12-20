@@ -1,6 +1,6 @@
 # Hey 👋, Welcome to my GitHub profile
 
-![Profile icon](ressources/profile_logo.png)
+![Profile icon](assets/profile_logo.png)
   
 ## 💻 About me
 
@@ -47,26 +47,26 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 
 > This is my biggest project: a C# console app library that allows you to create a console app with a GUI. It's a work in progress and I'm trying to add new features as often as I can. The objective is to create both a useful and easy to use library for beginners and advanced developers.
 
-[![ConsoleAppVisuals](ressources/presentation.gif)](https://github.com/MorganKryze/ConsoleAppVisuals)
+[![ConsoleAppVisuals](assets/presentation.gif)](https://github.com/MorganKryze/ConsoleAppVisuals)
 
 ### 📝 Email signature generator
 
 > Both a python and html project to generate clean email signatures. The python script include the config info from a yaml file to a html template.
 
-| [![with logo](https://raw.githubusercontent.com/MorganKryze/Signature-Generator/main/src/resources/screenshot_logo.png)](https://github.com/MorganKryze/Email-Signature-Generator) | [![with photo](https://raw.githubusercontent.com/MorganKryze/Signature-Generator/main/src/resources/screenshot_photo.png)](https://github.com/MorganKryze/Email-Signature-Generator) |
+| [![with logo](https://raw.githubusercontent.com/MorganKryze/Signature-Generator/main/src/assets/screenshot_logo.png)](https://github.com/MorganKryze/Email-Signature-Generator) | [![with photo](https://raw.githubusercontent.com/MorganKryze/Signature-Generator/main/src/assets/screenshot_photo.png)](https://github.com/MorganKryze/Email-Signature-Generator) |
 |:---:|:---:|
 
 ### 📃 Resume template
 
 > This project is a fork of the [jakegut/resume](https://github.com/jakegut/resume) implementing a convert script and auto-publish to github-pages.
 
-[![Resume template](ressources/resume-en.jpg)](https://github.com/MorganKryze/Resume-LaTeX)
+[![Resume template](assets/resume-en.jpg)](https://github.com/MorganKryze/Resume-LaTeX)
 
 ### 🖥️ Mac Setup
 
 > A quick guide for lambda people to setup their Mac and for developers. It provides a list of useful apps and a few tips to make your Mac experience better.
 
-[![Mac-Setup](ressources/setup.png)](https://github.com/MorganKryze/Mac-Setup)
+[![Mac-Setup](assets/setup.png)](https://github.com/MorganKryze/Mac-Setup)
 
 ### 🔐 RSA in python
 
@@ -78,46 +78,46 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 
 > This project is a fork of the [TicTacToe](https://github.com/Cledersonbc/tic-tac-toe-minimax) implementing the ability to play against a human.
 
-[![TicTacToe MiniMax](ressources/minimax.png)](https://github.com/MorganKryze/tic-tac-toe-minimax)
+[![TicTacToe MiniMax](assets/minimax.png)](https://github.com/MorganKryze/tic-tac-toe-minimax)
 
 ### 💵 Banking Assistant
 
 > A small C# console app to manage incomes and expenses.
 
-[![Banking Assistant](ressources/bank.png)](https://github.com/MorganKryze/BankingAssistant)
+[![Banking Assistant](assets/bank.png)](https://github.com/MorganKryze/BankingAssistant)
 
 ### 📺 Computer Science Problem
 
 > I built this project for my computer science class. The goal was to create a C# app that can create fractals, manipulate bitmap images (convolution, filters, ...) and switch languages (french and english). I also added a few other features like a custom color picker, a custom file explorer and a custom console.
 
-[![Computer Science Problem](ressources/csp.png)](https://github.com/MorganKryze/Computer_Science_Problem)
+[![Computer Science Problem](assets/csp.png)](https://github.com/MorganKryze/Computer_Science_Problem)
 
 ### 🥣 CookingGuest
 
 > This is a school project where we had to create a sql database and a C# app to manage it. The goal was to create a database for recipes, ingredients and orders. You may also take the place of a customer and create an order.
 
-[![CookingGuest](ressources/cookinguest.png)](https://github.com/MorganKryze/CookinGuest)
+[![CookingGuest](assets/cookinguest.png)](https://github.com/MorganKryze/CookinGuest)
 
 ### 🌹 FlowerStore
 
 > This is a school project where we had to create a sql database and a C# app to manage it. The goal was to create a database for a flower store that would allow you to manage the store's stock and orders. You may also take the place of a customer and create an order.
 
-[![FlowerStore](ressources/flowers.png)](https://github.com/MorganKryze/MDD_FlowerStore)
+[![FlowerStore](assets/flowers.png)](https://github.com/MorganKryze/MDD_FlowerStore)
 
 ### 📃 WordScramble
 
 > This was a school project designed to learn the basics of C#. The goal was to create a console app that would allow you to play a word scramble game. The game would generate a random letter grid and give you words you had to find in it within a time limit.
 
-[![WordScramble](ressources/word_scramble.png)](https://github.com/MorganKryze/WordScramble)
+[![WordScramble](assets/word_scramble.png)](https://github.com/MorganKryze/WordScramble)
 
 ### 📜 Labyrinth
 
 > This was also a school project where we had to create a labyrinth game in a C# console app. The goal was to create a game where you could move a character in a labyrinth and collect items. The labyrinth was generated randomly using a recursive algorithm.
 
-[![Labyrinth](ressources/labyrinth.png)](https://github.com/MorganKryze/Labyrinth)
+[![Labyrinth](assets/labyrinth.png)](https://github.com/MorganKryze/Labyrinth)
 
 ### 🤖 Discord bot
 
 > This was a prototype of a Discord bot that I made with a friend to discover both python and Discord. It was supposed to be a bot that would allow you to play music in a voice channel using the youtube dl library.
 
-[![Discord bot](ressources/discord_logo.jpg)](https://github.com/MorganKryze/Bot_discord)
+[![Discord bot](assets/discord_logo.jpg)](https://github.com/MorganKryze/Bot_discord)
