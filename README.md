@@ -68,6 +68,12 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 
 [![Mac-Setup](ressources/setup.png)](https://github.com/MorganKryze/Mac-Setup)
 
+### 🔐 RSA in python
+
+> A small python script to encrypt and decrypt messages using the RSA algorithm.
+
+[![RSA in python](https://raw.githubusercontent.com/MorganKryze/RSA-python-implementation/main/src/img/screenshot.png)](https://github.com/MorganKryze/RSA-python-implementation)
+
 ### 📝 TicTacToe MiniMax
 
 > This project is a fork of the [TicTacToe](https://github.com/Cledersonbc/tic-tac-toe-minimax) implementing the ability to play against a human.
