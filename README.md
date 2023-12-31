@@ -62,6 +62,12 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 
 [![Resume template](assets/resume-en.jpg)](https://github.com/MorganKryze/Resume-LaTeX)
 
+### 🛠️ Easy Git
+
+> Easy Git is a simple tool to help you set up and use your git workspaces.
+
+[![Easy Git](https://raw.githubusercontent.com/MorganKryze/Easy-Git/main/src/assets/demo.png)](https://github.com/MorganKryze/Easy-Git)
+
 ### 🖥️ Mac Setup
 
 > A quick guide for lambda people to setup their Mac and for developers. It provides a list of useful apps and a few tips to make your Mac experience better.
