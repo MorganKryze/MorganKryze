@@ -1,23 +1,23 @@
 # Hey 👋, Welcome to my GitHub profile
 
 ![Profile icon](assets/profile_logo.png)
-  
+
 ## 💻 About me
 
 Currently at an engineering school, I get to use VsCode, Docker or Flutter. But what I like most currently is C# and its potential.
 Through my different projects, I try to go further and further into the language and discover its specifics.
 
-However, I'm not solely focused on C#. I try my best to learn dart/Flutter and Python on the side to stay competitive!  
-  
+However, I'm not solely focused on C#. I try my best to learn dart/Flutter and Python on the side to stay competitive!
+
 ## 📊 Github Stats
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e8b055b128dce3cb755b76?variant=light&roadmaps=flutter%2Cpython%2Csql%2Cdocker)](https://roadmap.sh)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MorganKryze\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage&hide_title=true&card_width=500)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MorganKryze\&layout=compact&card_width=500)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MorganKryze&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_title=true&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MorganKryze&layout=compact&card_width=500)
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=MorganKryze&&style=flat-square" align="center" />
-</div> 
+</div>
 
 ## 📬 Contact me
 
@@ -49,18 +49,18 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 
 [![ConsoleAppVisuals](assets/presentation.gif)](https://github.com/MorganKryze/ConsoleAppVisuals)
 
+### 📃 Resume template
+
+> This project is a fork of the [jakegut/resume](https://github.com/jakegut/resume) implementing a convert script and auto-publish to github-pages.
+
+[![Resume template](https://raw.githubusercontent.com/MorganKryze/Resume-LaTeX/master/src/resume-en/resume.jpg)](https://github.com/MorganKryze/Resume-LaTeX)
+
 ### 📝 Email signature generator
 
 > Both a python and html project to generate clean email signatures. The python script include the config info from a yaml file to a html template.
 
 | [![with logo](https://raw.githubusercontent.com/MorganKryze/Signature-Generator/main/src/assets/screenshot_logo.png)](https://github.com/MorganKryze/Email-Signature-Generator) | [![with photo](https://raw.githubusercontent.com/MorganKryze/Signature-Generator/main/src/assets/screenshot_photo.png)](https://github.com/MorganKryze/Email-Signature-Generator) |
-|:---:|:---:|
-
-### 📃 Resume template
-
-> This project is a fork of the [jakegut/resume](https://github.com/jakegut/resume) implementing a convert script and auto-publish to github-pages.
-
-[![Resume template](assets/resume-en.jpg)](https://github.com/MorganKryze/Resume-LaTeX)
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ### 🛠️ Easy Git
 
@@ -72,7 +72,13 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 
 > A quick guide for lambda people to setup their Mac and for developers. It provides a list of useful apps and a few tips to make your Mac experience better.
 
-[![Mac-Setup](assets/setup.png)](https://github.com/MorganKryze/Mac-Setup)
+[![Mac-Setup](https://raw.githubusercontent.com/MorganKryze/Mac-Setup/main/src/assets/img/demo.png)](https://github.com/MorganKryze/Mac-Setup)
+
+### 🕹️ Connect-4
+
+> A simple connect-4 game built with python and blessed.
+
+[![Connect-4](https://raw.githubusercontent.com/MorganKryze/Connect-4/main/src/assets/img/demo.png)](https://github.com/MorganKryze/Connect-4)
 
 ### 🔐 RSA in python
 
