@@ -12,8 +12,10 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 ## 📊 Github Stats
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e8b055b128dce3cb755b76?variant=light&roadmaps=flutter%2Cpython%2Csql%2Cdocker)](https://roadmap.sh)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MorganKryze&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_title=true&card_width=500)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MorganKryze&layout=compact&card_width=500)
+
+![Overview](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg)
+
+![Languages](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg)
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=MorganKryze&&style=flat-square" align="center" />
