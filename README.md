@@ -66,10 +66,12 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 
 ### 📝 Email signature generator
 
-> Both a python and html project to generate clean email signatures. The python script include the config info from a yaml file to a html template.
+> Both a python and html project to generate clean email signatures. You can choose between a logo or a photo and customize the all information.
 
-| [![with logo](https://raw.githubusercontent.com/MorganKryze/Signature-Generator/main/src/assets/screenshot_logo.png)](https://github.com/MorganKryze/Email-Signature-Generator) | [![with photo](https://raw.githubusercontent.com/MorganKryze/Signature-Generator/main/src/assets/screenshot_photo.png)](https://github.com/MorganKryze/Email-Signature-Generator) |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+[![Demo-page](https://raw.githubusercontent.com/MorganKryze/Emails-Signature-Generator-Website/main/assets/img/jpg/demo.jpeg)](https://emails-signature-generator.vercel.app)
+
+| [![with logo 200px 500px](https://raw.githubusercontent.com/MorganKryze/Emails-Signature-Generator-Website/main/assets/img/png/logo.png)](https://emails-signature-generator.vercel.app) | [![with photo 200px 500px](https://raw.githubusercontent.com/MorganKryze/Emails-Signature-Generator-Website/main/assets/img/png/photo.png)](https://emails-signature-generator.vercel.app) |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ### 🛠️ Easy Git
 
