@@ -58,12 +58,6 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 
 [![Resume template](https://raw.githubusercontent.com/MorganKryze/Resume-LaTeX/master/src/resume-en/resume.jpg)](https://github.com/MorganKryze/Resume-LaTeX)
 
-### 📈 Find Your Real Estate
-
-> A simple Django project to explore Real Estate data and publish it to the web using Vercel.
-
-[![Find Your Real Estate](https://raw.githubusercontent.com/MorganKryze/Fyre/main/assets/img/demo.jpeg)](https://github.com/MorganKryze/Fyre/tree/main)
-
 ### 📝 Email signature generator
 
 > Both a python and html project to generate clean email signatures. You can choose between a logo or a photo and customize the all information.
@@ -72,6 +66,12 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 
 | [![with logo 200px 500px](https://raw.githubusercontent.com/MorganKryze/Emails-Signature-Generator-Website/main/assets/img/png/logo.png)](https://emails-signature-generator.vercel.app) | [![with photo 200px 500px](https://raw.githubusercontent.com/MorganKryze/Emails-Signature-Generator-Website/main/assets/img/png/photo.png)](https://emails-signature-generator.vercel.app) |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+### 📈 Find Your Real Estate
+
+> A simple Django project to explore Real Estate data and publish it to the web using Vercel.
+
+[![Find Your Real Estate](https://raw.githubusercontent.com/MorganKryze/Fyre/main/assets/img/demo.jpeg)](https://github.com/MorganKryze/Fyre/tree/main)
 
 ### 🛠️ Easy Git
 
