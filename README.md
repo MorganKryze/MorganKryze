@@ -81,9 +81,9 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 
 ### 🖥️ Mac Setup
 
-> A quick guide for lambda people to setup their Mac and for developers. It provides a list of useful apps and a few tips to make your Mac experience better.
+> A list of useful tools and configurations for a Mac setup (more features for developers).
 
-[![Mac-Setup](https://raw.githubusercontent.com/MorganKryze/Mac-Setup/main/src/assets/img/demo.png)](https://github.com/MorganKryze/Mac-Setup)
+[![Mac-Setup](https://raw.githubusercontent.com/MorganKryze/Mac-Setup/main/src/assets/img/banner.png)](https://github.com/MorganKryze/Mac-Setup)
 
 ### 🕹️ Connect-4
 
