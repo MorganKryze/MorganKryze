@@ -50,7 +50,7 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 
 > This is my biggest project: a C# console app library that allows you to create a console app with a GUI. It's a work in progress and I'm trying to add new features as often as I can. The objective is to create both a useful and easy to use library for beginners and advanced developers.
 
-[![ConsoleAppVisuals](assets/presentation.gif)](https://github.com/MorganKryze/ConsoleAppVisuals)
+[![ConsoleAppVisuals](https://raw.githubusercontent.com/MorganKryze/ConsoleAppVisuals/main/docs/assets/vid/gif/presentation.gif)](https://github.com/MorganKryze/ConsoleAppVisuals)
 
 ### 📃 Resume template
 
