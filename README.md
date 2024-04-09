@@ -22,28 +22,6 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
     <img src="https://komarev.com/ghpvc/?username=MorganKryze&&style=flat-square" align="center" />
 </div>
 
-## 📬 Contact me
-
-<a href="mailto:morgan@kodelab.fr" target="_blank">
-    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://stackoverflow.com/users/MorganK" target="_blank">
-    <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://instagram.com/morgan.krz" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://gitlab.com/MorganKryze" target="_blank">
-    <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://github.com/MorganKryze" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
 ## 📁 Projects
 
 ### 🌄 ConsoleAppVisuals
