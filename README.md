@@ -16,7 +16,7 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 <img src="https://raw.githubusercontent.com/MorganKryze/github-stats/master/generated/languages.svg" />
 </a>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e8b055b128dce3cb755b76?variant=light&roadmaps=flutter%2Cpython%2Csql%2Cdocker)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e8b055b128dce3cb755b76?variant=light)](https://roadmap.sh)
 
 <div align="left">
     <img src="https://komarev.com/ghpvc/?username=MorganKryze&&style=flat-square" align="center" />
