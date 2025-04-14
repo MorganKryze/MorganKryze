@@ -6,6 +6,7 @@
 
 <a href="https://github.com/MorganKryze/github-stats">
 <img src="https://raw.githubusercontent.com/MorganKryze/github-stats/master/generated/overview.svg" />
+<br>
 <img src="https://raw.githubusercontent.com/MorganKryze/github-stats/master/generated/languages.svg" />
 </a>
 
