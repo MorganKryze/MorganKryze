@@ -2,13 +2,6 @@
 
 ![Profile icon](assets/profile_logo.png)
 
-## 💻 About me
-
-Currently at an engineering school, I get to use VsCode, Docker or Flutter. But what I like most currently is C# and its potential.
-Through my different projects, I try to go further and further into the language and discover its specifics.
-
-However, I'm not solely focused on C#. I try my best to learn dart/Flutter and Python on the side to stay competitive!
-
 ## 📊 Github Stats
 
 <a href="https://github.com/MorganKryze/github-stats">
@@ -56,12 +49,6 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 > Easy Git is a simple tool to help you set up and use your git workspaces.
 
 [![Easy Git](https://raw.githubusercontent.com/MorganKryze/Easy-Git/main/src/assets/demo.png)](https://github.com/MorganKryze/Easy-Git)
-
-### 🖥️ Mac Setup
-
-> A list of useful tools and configurations for a Mac setup (more features for developers).
-
-[![Mac-Setup](https://raw.githubusercontent.com/MorganKryze/Mac-Setup/main/src/assets/img/banner.png)](https://github.com/MorganKryze/Mac-Setup)
 
 ### 🕹️ Connect-4
 
@@ -116,9 +103,3 @@ However, I'm not solely focused on C#. I try my best to learn dart/Flutter and P
 > This was also a school project where we had to create a labyrinth game in a C# console app. The goal was to create a game where you could move a character in a labyrinth and collect items. The labyrinth was generated randomly using a recursive algorithm.
 
 [![Labyrinth](assets/labyrinth.png)](https://github.com/MorganKryze/Labyrinth)
-
-### 🤖 Discord bot
-
-> This was a prototype of a Discord bot that I made with a friend to discover both python and Discord. It was supposed to be a bot that would allow you to play music in a voice channel using the youtube dl library.
-
-[![Discord bot](assets/discord_logo.jpg)](https://github.com/MorganKryze/Bot_discord)
