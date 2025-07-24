@@ -27,6 +27,6 @@
 
 ### 🖥️ Portfolio
 
-If you are curious enough to see my portfolio, you can check it out [here](https://blog.mykodelab.dev/).
+If you are curious enough to see my portfolio, you can check it out at [blog.libresoftware.cloud](https://blog.libresoftware.cloud).
 
 Cheers! 🍻
