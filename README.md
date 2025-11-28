@@ -1,6 +1,6 @@
 # Hey 👋, Welcome to my GitHub profile
 
-[![Profile icon](assets/profile_logo.png)](https://blog.mykodelab.dev/)
+<!-- [![Profile icon](assets/profile_logo.png)](https://blog.mykodelab.dev/) -->
 
 ## 📊 My GitHub stats
 
