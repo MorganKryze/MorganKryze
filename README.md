@@ -4,8 +4,10 @@
 
 ## 📊 My GitHub stats
 
-<img width="45%" src="https://raw.githubusercontent.com/MorganKryze/github-stats/master/generated/overview.svg" />
-<img width="45%" src="https://raw.githubusercontent.com/MorganKryze/github-stats/master/generated/languages.svg" />
+<div align="left">
+    <img width="49%" src="https://raw.githubusercontent.com/MorganKryze/github-stats/master/generated/overview.svg" />
+    <img width="49%" src="https://raw.githubusercontent.com/MorganKryze/github-stats/master/generated/languages.svg" />
+</div>
 
 ## 📁 Projects
 
