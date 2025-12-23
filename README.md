@@ -4,20 +4,14 @@
 
 ## 📊 My GitHub stats
 
-<a href="https://github.com/MorganKryze/github-stats">
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/MorganKryze/github-stats/master/generated/overview.svg" /></td>
-    <td><img src="https://raw.githubusercontent.com/MorganKryze/github-stats/master/generated/languages.svg" /></td>
-  </tr>
-</table>
-</a>
+<img width="49%" src="https://raw.githubusercontent.com/MorganKryze/github-stats/master/generated/overview.svg" />
+<img width="49%" src="https://raw.githubusercontent.com/MorganKryze/github-stats/master/generated/languages.svg" />
+
+## 📁 Projects
 
 <div align="left">
     <img src="https://komarev.com/ghpvc/?username=MorganKryze&&style=flat-square" align="center" />
 </div>
-
-## 📁 Projects
 
 ### 🌄 ConsoleAppVisuals
 
