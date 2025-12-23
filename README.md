@@ -1,31 +1,70 @@
-# Hey 👋, Welcome to my GitHub profile
+# Hey 👋, I'm Morgan
 
-<!-- [![Profile icon](assets/profile_logo.png)](https://blog.mykodelab.dev/) -->
+Full-stack developer building tools that make developers' lives easier. I specialize in creating intuitive tools and clean, maintainable code.
 
-## 📊 My GitHub stats
-
-<div align="left">
-    <img width="49%" src="https://raw.githubusercontent.com/MorganKryze/github-stats/master/generated/overview.svg" />
-    <img width="49%" src="https://raw.githubusercontent.com/MorganKryze/github-stats/master/generated/languages.svg" />
-</div>
-
-## 📁 Projects
+## 📊 GitHub Stats
 
 <div align="left">
-    <img src="https://komarev.com/ghpvc/?username=MorganKryze&&style=flat-square" align="center" />
+  <picture>
+    <source 
+      srcset="https://raw.githubusercontent.com/MorganKryze/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      width="49%" 
+      src="https://raw.githubusercontent.com/MorganKryze/github-stats/master/generated/overview.svg#gh-light-mode-only" 
+      alt="GitHub Overview Stats"
+    />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://raw.githubusercontent.com/MorganKryze/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      width="49%" 
+      src="https://raw.githubusercontent.com/MorganKryze/github-stats/master/generated/languages.svg#gh-light-mode-only" 
+      alt="GitHub Language Stats"
+    />
+  </picture>
 </div>
 
-### 🌄 ConsoleAppVisuals
+## 🚀 Featured Projects
 
-By far one of my most ambitious coding project: a C# console app library that allows you to create a console app with a rich Terminal User Interface. It's a work in progress and I'm trying to add new features and maintain it to keep it up to date. The objective is to create both a useful and easy to use library for beginners and intermediate developers.
+### 🌄 [ConsoleAppVisuals](https://github.com/MorganKryze/ConsoleAppVisuals)
 
-[![ConsoleAppVisuals](https://raw.githubusercontent.com/MorganKryze/ConsoleAppVisuals/main/docs/assets/vid/gif/presentation.gif)](https://github.com/MorganKryze/ConsoleAppVisuals)
+**Build beautiful terminal UIs in C# without the complexity.**
 
-### 🖥️ Portfolio
+Stop wrestling with console positioning and ANSI codes. ConsoleAppVisuals gives you pre-built interactive elements (menus, prompts, tables, animations) so you can focus on your app logic instead of rendering details.
 
-If you are curious enough to see my portfolio, you can check it out at [blog.libresoftware.cloud](https://blog.libresoftware.cloud).
+Perfect for CLI tools, admin dashboards, and interactive scripts.
 
-Cheers! 🍻
+[![ConsoleAppVisuals Demo](https://raw.githubusercontent.com/MorganKryze/ConsoleAppVisuals/main/docs/assets/vid/gif/presentation.gif)](https://github.com/MorganKryze/ConsoleAppVisuals)
 
-> “The proper use of comments is to compensate for our failure to express ourself in code. Note that I used the word failure. I meant it. Comments are always failures. We must have them because we cannot always figure out how to express ourselves without them, but their use is not a cause for celebration. So when you find yourself in a position where you need to write a comment, think it through and see whether there isn’t some way to turn the tables and express yourself in code.”
+**Key Features:**
+
+- 🎨 Rich TUI components out of the box
+- ⚡ Simple API for beginners, powerful for pros
+- 📦 NuGet package ready to use
+- 📚 Comprehensive documentation
+
+[View on GitHub →](https://github.com/MorganKryze/ConsoleAppVisuals)
+
+---
+
+### 🖥️ More Projects
+
+Check out my pinned repositories below for more of my work, or visit my [portfolio](https://blog.libresoftware.cloud/) to see everything in action.
+
+## 💬 Let's Connect
+
+Got questions about my projects? Want to collaborate? Feel free to open an issue on any repo or [reach out via email](mailto:contact@libresoftware.cloud).
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MorganKryze&style=flat-square" alt="Profile views" />
+</div>
+
+---
+
+> _“The proper use of comments is to compensate for our failure to express ourself in code. Note that I used the word failure. I meant it. Comments are always failures. We must have them because we cannot always figure out how to express ourselves without them, but their use is not a cause for celebration. So when you find yourself in a position where you need to write a comment, think it through and see whether there isn’t some way to turn the tables and express yourself in code.”_
 > Quote: (c) Robert C. Martin (Clean Code)
