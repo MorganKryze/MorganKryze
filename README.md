@@ -52,6 +52,26 @@ Perfect for CLI tools, admin dashboards, and interactive scripts.
 
 ---
 
+### 📢 [JellyFlare](https://github.com/MorganKryze/JellyFlare)
+
+**Announce things to your Jellyfin users — without any of the friction.**
+
+Managing a shared Jellyfin server means your users never know about maintenance windows, library changes, or anything else. JellyFlare adds a configurable announcement banner to the top of the Jellyfin web UI, so you can communicate directly without chasing people down.
+
+[![JellyFlare Demo](https://raw.githubusercontent.com/MorganKryze/JellyFlare/main/assets/demo.gif)](https://github.com/MorganKryze/JellyFlare)
+
+**Key Features:**
+
+- 📅 Schedule messages with fixed dates, annual, weekly, or daily windows
+- 🔴 Permanent banner mode for urgent notices — one click override
+- 🛠️ Admin dashboard UI — add, edit, and reorder without touching files
+- 👁️ User dismiss controls, with admin toggle
+- 🧠 Auto-hides on admin pages
+
+[View on GitHub →](https://github.com/MorganKryze/JellyFlare)
+
+---
+
 ### 🖥️ More Projects
 
 Check out my pinned repositories below for more of my work, or visit my [portfolio](https://blog.libresoftware.cloud/) to see everything in action.
