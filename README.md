@@ -58,7 +58,7 @@ Perfect for CLI tools, admin dashboards, and interactive scripts.
 
 Managing a shared Jellyfin server means your users never know about maintenance windows, library changes, or anything else. JellyFlare adds a configurable announcement banner to the top of the Jellyfin web UI, so you can communicate directly without chasing people down.
 
-<a href="https://github.com/MorganKryze/JellyFlare"><img src="https://raw.githubusercontent.com/MorganKryze/JellyFlare/main/assets/demo.png" width="100%" alt="Demo" /></a>
+<a href="https://github.com/MorganKryze/JellyFlare"><img src="https://raw.githubusercontent.com/MorganKryze/JellyFlare/main/assets/demo.gif" width="100%" alt="Demo" /></a>
 
 **Key Features:**
 
