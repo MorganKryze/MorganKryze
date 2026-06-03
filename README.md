@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MorganKryze&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge&abbreviated=true)](https://github.com/MorganKryze)
+[![Profile Views](https://vbr.nathanchung.dev/badge?page_id=MorganKryze&color=8B5CF6&style=for-the-badge&lcolor=000000&text=PROFILE+VIEWS)](https://github.com/MorganKryze)
 [![GitHub followers](https://img.shields.io/github/followers/MorganKryze?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=000000)](https://github.com/MorganKryze?tab=followers)
 [![Stars earned](https://img.shields.io/github/stars/MorganKryze?label=STARS+EARNED&style=for-the-badge&color=F59E0B&labelColor=000000&affiliations=OWNER)](https://github.com/MorganKryze?tab=repositories&q=&type=&language=&sort=stargazers)
 
@@ -327,15 +327,6 @@ Environments  : production, staging, air-gapped (Ministère des Armées)
 <a href="https://libresoftware.cloud/">
   <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=hugo&logoColor=white" alt="Portfolio" />
 </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-> _"Any sufficiently advanced technology is indistinguishable from magic."_
-> — Arthur C. Clarke
 
 </div>
 
