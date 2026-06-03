@@ -23,13 +23,12 @@
 ## `> cat /etc/availability`
 
 ```text
-status        : 🟢  open to conversations
-looking_for   : DevOps / SRE role · late 2026
-currently     : Apprenti FabManager · Ministère des Armées (until Sept. 2026)
-based_in      : Paris · La Défense · 🇫🇷
-work_mode     : hybrid preferred
-fighting_for  : privacy · data ownership · software freedom
-reach_out     : yann.vidamment@libresoftware.cloud
+status       : 🟢 open to conversations
+looking_for  : DevOps / SRE role · late 2026
+currently    : Apprenti FabManager · Ministère des Armées (→ Sept 2026)
+based_in     : Paris · La Défense · 🇫🇷
+work_mode    : hybrid preferred
+reach_out    : yann.vidamment@libresoftware.cloud
 ```
 
 ---
@@ -38,13 +37,14 @@ reach_out     : yann.vidamment@libresoftware.cloud
 
 ```python
 class Morgan:
+    name         = "Yann M. Vidamment"
     role         = "Cloud & Cybersecurity Engineer · DevOps / SRE-bound"
-    focus        = ["Self-Hosting", "Homelab Operations",
-                    "Network & Identity", "Air-Gapped Environments"]
-    fighting_for = ["Privacy", "Data Ownership",
-                    "Software Freedom", "Open-Source by Default"]
-    motto        = ("Any sufficiently advanced technology "
-                    "is indistinguishable from magic.  — A. C. Clarke")
+    focus        = ["self-hosting", "homelab operations",
+                    "network & identity", "air-gapped environments"]
+    fighting_for = ["privacy", "data ownership",
+                    "software freedom", "open-source by default"]
+    motto        = "Any sufficiently advanced technology is indistinguishable from magic."
+    motto_by     = "Arthur C. Clarke"
 ```
 
 ---
