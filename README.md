@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=260&section=header&text=Yann%20M.&fontSize=86&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Cloud%20%26%20Cybersecurity%20%C2%B7%20DevOps%20%2F%20SRE%20%C2%B7%20Self-Hosting&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=260&section=header&text=Yann%20M.&fontSize=86&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Cloud%20%2F%20Cybersecurity%20%C2%B7%20DevOps%20%2F%20SRE%20%C2%B7%20Self-Hosting&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+infrastructure+that+respects+your+data.;Self-hosted+%E2%80%A2+Open-source+%E2%80%A2+Privacy+by+default;Owning+your+data+is+a+right%2C+not+a+feature." alt="Typing animation" />
