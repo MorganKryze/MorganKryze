@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=260&section=header&text=Yann%20M.&fontSize=86&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Cloud%20%2F%20Cybersecurity%20%C2%B7%20DevOps%20%2F%20SRE%20%C2%B7%20Self-Hosting&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=260&section=header&text=Yann%20M.&fontSize=86&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Cloud%20%2F%20Cybersecurity%20%C2%B7%20Platform%20%2F%20SRE%20%C2%B7%20Sovereign%20Cloud&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+infrastructure+that+respects+your+data.;Self-hosted+%E2%80%A2+Open-source+%E2%80%A2+Privacy+by+default;Owning+your+data+is+a+right%2C+not+a+feature." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+infrastructure+that+respects+your+data.;Self-hosted+%E2%80%A2+Open-source+%E2%80%A2+Privacy+by+default;Hardware+you+own.+Software+you+control." alt="Typing animation" />
 </a>
 
 <br/><br/>
@@ -24,7 +24,7 @@
 
 ```text
 status       : 🟢 open to conversations
-looking_for  : DevOps / SRE role · late 2026
+looking_for  : Platform / SRE Engineer · Sovereign Cloud · late 2026
 currently    : Apprenti FabManager · Ministère des Armées (→ Sept 2026)
 based_in     : Paris · La Défense · 🇫🇷
 work_mode    : hybrid preferred
@@ -38,10 +38,10 @@ reach_out    : yann.vidamment@libresoftware.cloud
 ```python
 class Morgan:
     name         = "Yann M. Vidamment"
-    role         = "Cloud & Cybersecurity Engineer · DevOps / SRE-bound"
-    focus        = ["self-hosting", "homelab operations",
-                    "network & identity", "air-gapped environments"]
-    fighting_for = ["privacy", "data ownership",
+    role         = "Cloud & Cybersecurity Engineer · Platform / SRE in Sovereign Cloud"
+    focus        = ["sovereign cloud", "platform engineering",
+                    "self-hosting & homelab ops", "identity & access"]
+    fighting_for = ["digital sovereignty", "privacy", "data ownership",
                     "software freedom", "open-source by default"]
     motto        = "Any sufficiently advanced technology is indistinguishable from magic."
     motto_by     = "Arthur C. Clarke"
@@ -65,7 +65,7 @@ Highlights  : Zero open ports (Pangolin tunnel → VPS reverse proxy)
               Centralised identity via Keycloak (OIDC / SSO)
               ZFS snapshots + replication for BCP / DR
               Substituted SaaS: Immich, Erugo, SearxNG, Affine, Forgejo...
-Status      : 🟢 Production · 🛡️ Hardened · 🔄 Continuously evolving
+Status      : 🟢 Production · 🛡️ Hardened
 ```
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -75,6 +75,30 @@ Status      : 🟢 Production · 🛡️ Hardened · 🔄 Continuously evolving
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
 
 [View on GitHub →](https://github.com/MorganKryze/MyHomeNAS)
+
+</details>
+
+<details open>
+<summary><b>📢 JellyFlare — Announcements for Jellyfin, zero friction</b></summary>
+
+<br/>
+
+> *Tell your Jellyfin users about maintenance windows without chasing them down.*
+
+<a href="https://github.com/MorganKryze/JellyFlare">
+  <img src="https://raw.githubusercontent.com/MorganKryze/JellyFlare/main/assets/demo.gif" width="100%" alt="JellyFlare Demo" />
+</a>
+
+```
+Stack       : JavaScript · Jellyfin Plugin API
+Features    : Scheduled banners · permanent mode · admin dashboard · user dismiss
+Reach       : 57⭐ — most-starred repo, built for the self-hosting crowd
+```
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
+
+[View on GitHub →](https://github.com/MorganKryze/JellyFlare)
 
 </details>
 
@@ -105,35 +129,11 @@ Audience    : CLI tools, admin dashboards, interactive scripts
 </details>
 
 <details open>
-<summary><b>📢 JellyFlare — Announcements for Jellyfin, zero friction</b></summary>
-
-<br/>
-
-> *Tell your Jellyfin users about maintenance windows without chasing them down.*
-
-<a href="https://github.com/MorganKryze/JellyFlare">
-  <img src="https://raw.githubusercontent.com/MorganKryze/JellyFlare/main/assets/demo.gif" width="100%" alt="JellyFlare Demo" />
-</a>
-
-```
-Stack       : JavaScript · Jellyfin Plugin API
-Features    : Scheduled banners · permanent mode · admin dashboard · user dismiss
-Reach       : 57⭐ — most-starred repo, built for the self-hosting crowd
-```
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
-
-[View on GitHub →](https://github.com/MorganKryze/JellyFlare)
-
-</details>
-
-<details open>
 <summary><b>🎠 Carousel — RGB LED matrix dashboard</b></summary>
 
 <br/>
 
-> *Modular ambient dashboard for your desk — weather, calendar, notifications, your call.*
+> *Modular ambient dashboard for your desk. Weather, calendar, notifications, whatever you wire in.*
 
 ```
 Stack       : Python · Raspberry Pi · LED matrix · Docker
@@ -159,7 +159,7 @@ Next        : Kickstarter campaign · install guides for non-technical users
 
 <br/>
 
-> *Ship reliably, observe everything, recover quickly.*
+> *Build the platform. Find what breaks before users do.*
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -185,7 +185,7 @@ Testing       : automated tests, golden-path verification, CI gates
 
 <br/>
 
-> *Expose the right thing, block the rest, and let people sign in once.*
+> *Reverse proxies, Wireguard tunnels, Keycloak SSO for 40+ humans.*
 
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![Wireguard](https://img.shields.io/badge/Wireguard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
@@ -209,7 +209,7 @@ Compliance    : GDPR-aware design, data export & anonymisation flows
 
 <br/>
 
-> *Run it on a Pi, run it in a rack, run it where the network can't reach.*
+> *Bare metal Linux, from Raspberry Pis to TrueNAS racks.*
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -237,7 +237,6 @@ Environments  : production, staging, air-gapped (Ministère des Armées)
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -304,8 +303,8 @@ Environments  : production, staging, air-gapped (Ministère des Armées)
 + MyHomeNAS         — scaling services, hardening identity, refining the runbook
 + Carousel          — Kickstarter prep, install UX for non-technical setups
 + DeVinci Fablab    — handing off 4 years of knowledge to the next managers
-+ Ministère / FabLab — workshops, internal services, air-gapped tooling
-- "just put it in the cloud" — not when it can run on a Pi at home
++ Ministère / FabLab — workshops, internal services, edge tooling
+- "just put it in a US cloud" — not when sovereign alternatives exist
 ! Reading: Designing Data-Intensive Applications · The SRE Book · Permanent Record
 ```
 
