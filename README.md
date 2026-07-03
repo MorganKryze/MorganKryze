@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=260&section=header&text=Yann%20M.&fontSize=86&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Cloud%20%2F%20Cybersecurity%20%C2%B7%20Platform%20%2F%20SRE%20%C2%B7%20Sovereign%20Cloud&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=260&section=header&text=Yann%20M.&fontSize=86&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Cloud%20%2F%20Cybersecurity%20%C2%B7%20DevOps%20%2F%20Infrastructure%20%C2%B7%20Sovereign%20Cloud&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+infrastructure+that+respects+your+data.;Self-hosted+%E2%80%A2+Open-source+%E2%80%A2+Privacy+by+default;Hardware+you+own.+Software+you+control." alt="Typing animation" />
@@ -24,7 +24,7 @@
 
 ```text
 status       : 🟢 open to conversations
-looking_for  : Platform / SRE Engineer · Sovereign Cloud · late 2026
+looking_for  : DevOps / Infrastructure Engineer · Sovereign Cloud · late 2026
 currently    : Apprenti FabManager · Ministère des Armées (→ Sept 2026)
 based_in     : Paris · La Défense · 🇫🇷
 work_mode    : hybrid preferred
@@ -38,9 +38,10 @@ reach_out    : yann.vidamment@libresoftware.cloud
 ```python
 class Morgan:
     name         = "Yann M. Vidamment"
-    role         = "Cloud & Cybersecurity Engineer · Platform / SRE in Sovereign Cloud"
-    focus        = ["sovereign cloud", "platform engineering",
+    role         = "Cloud & Cybersecurity Engineer · DevOps / Infrastructure in Sovereign Cloud"
+    focus        = ["sovereign cloud", "devops & infrastructure",
                     "self-hosting & homelab ops", "identity & access"]
+    horizon      = "Platform / SRE — 18-24mo out, once the infra reps are in"
     fighting_for = ["digital sovereignty", "privacy", "data ownership",
                     "software freedom", "open-source by default"]
     motto        = "Any sufficiently advanced technology is indistinguishable from magic."
@@ -300,6 +301,7 @@ Environments  : production, staging, air-gapped (Ministère des Armées)
 
 ```diff
 @@ ongoing work @@
++ CKAD              — preparing the Certified Kubernetes Application Developer exam
 + MyHomeNAS         — scaling services, hardening identity, refining the runbook
 + Carousel          — Kickstarter prep, install UX for non-technical setups
 + DeVinci Fablab    — handing off 4 years of knowledge to the next managers
