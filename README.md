@@ -20,6 +20,7 @@
 
 ---
 
+<!--
 ## `> cat /etc/availability`
 
 ```text
@@ -30,6 +31,7 @@ based_in     : Paris · La Défense · 🇫🇷
 work_mode    : hybrid preferred
 reach_out    : yann.vidamment@libresoftware.cloud
 ```
+-->
 
 ---
 
@@ -51,6 +53,26 @@ class Morgan:
 ---
 
 ## `> ls ~/projects/`
+
+<details open>
+<summary><b>🏔️ Cairn — The directory page for the people you host services for</b></summary>
+
+<br/>
+
+> *No account, multilingual, live status, packed in one tiny Go container.*
+
+```
+Stack       : Go · Docker · PWA · i18n · YAML / GitOps
+Features    : Live status integration, zero-account directory, multilingual, single binary
+Reach       : 79⭐ — built for the self-hosting / homeserver community
+```
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+[View on GitHub →](https://github.com/MorganKryze/cairn)
+
+</details>
 
 <details open>
 <summary><b>🏡 MyHomeNAS — Homelab for 40+ humans</b></summary>
@@ -93,7 +115,7 @@ Status      : 🟢 Production · 🛡️ Hardened
 ```
 Stack       : JavaScript · Jellyfin Plugin API
 Features    : Scheduled banners · permanent mode · admin dashboard · user dismiss
-Reach       : 57⭐ — most-starred repo, built for the self-hosting crowd
+Reach       : 64⭐ — built for the self-hosting crowd
 ```
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -301,6 +323,7 @@ Environments  : production, staging, air-gapped (Ministère des Armées)
 
 ```diff
 @@ ongoing work @@
++ Cairn             — directory page for self-hosted services (Go, 79⭐)
 + CKAD              — preparing the Certified Kubernetes Application Developer exam
 + MyHomeNAS         — scaling services, hardening identity, refining the runbook
 + Carousel          — Kickstarter prep, install UX for non-technical setups
