@@ -64,7 +64,7 @@ class Morgan:
 > *No account, multilingual, live status, packed in one tiny Go container.*
 
 <a href="https://github.com/MorganKryze/cairn">
-  <img src="https://raw.githubusercontent.com/MorganKryze/cairn/main/docs/assets/two-views.png" width="100%" alt="Cairn Preview" />
+  <img src="https://raw.githubusercontent.com/MorganKryze/cairn/main/docs/assets/home-light.png" width="100%" alt="Cairn Preview" />
 </a>
 
 ```
