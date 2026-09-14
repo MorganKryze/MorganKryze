@@ -21,6 +21,19 @@
 
 ---
 
+<!--
+## `> cat /etc/availability`
+
+```text
+status       : 🟢 open to conversations
+looking_for  : DevOps / Infrastructure Engineer · Sovereign Cloud · late 2026
+currently    : Apprenti FabManager · Ministère des Armées (→ Sept 2026)
+based_in     : Paris · La Défense · 🇫🇷
+work_mode    : hybrid preferred
+reach_out    : yann.vidamment@libresoftware.cloud
+```
+-->
+
 ## `> whoami`
 
 ```python
